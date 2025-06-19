@@ -1,0 +1,1 @@
+A computer vision system that detects whether people are wearing face masks in real time through webcam input. Built using OpenCV and a Convolutional Neural Network (CNN), the model processes video frames, locates faces, and classifies them as "Mask" or "No Mask". This application demonstrates practical use of image classification for public health and safety monitoring.
